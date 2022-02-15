@@ -32,10 +32,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Hoe ik tekst kan verwijderen zodat het lijkt dt iemand de logo is aan het eten. 
+  - het effect/animatie dat de logo in half breekt 
  
 </details>
 
