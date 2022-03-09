@@ -48,21 +48,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/animatie1" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/animatie2" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/animatie3" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie2.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/animatie3.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Een ding dat goed ging was de erste gedeelte van de animatie waar de KIT afbreekt van de KAT. Ik heb een clip path gebruikt om gedeeltes van de eerste T en tweede K te verwijderen. Ik dacht dat het lastig zou zijn om het te doen maar het ging best wel goed. Ik had een link gevonden waar de nummers in de clip path worden gegeven door het maken van de vorm dat je wilt.
 
-  <img src="readme-images/goed" width="375px" alt="top">
+  <img src="readme-images/goed.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Een ding dat lastig was was het gebruiken van clip paths om de bite marks te maken. Ik had elke vorm gemaakt maar niks lukte mij. Dus omdat ik de mogelijkheid had om li's te gebruiken om de crumbs te maken had ik bedacht om die te gebruiken als een soort "cover" op de KAT en vandaar circles maken die like op de bite marks. 
 
-  <img src="readme-images/lastig" width="375px" alt="bummer">
+  <img src="readme-images/lastig.png" width="375px" alt="bummer">
 </details>
 
 
