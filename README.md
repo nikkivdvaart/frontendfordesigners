@@ -14,9 +14,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Bronnenlijst
-  1. -bron 1-
-  2. -bron 2-
-  3. -...-
+1. [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
+
+2. [https://www.youtube.com/watch?v=cXxsE1_QrfE](https://www.youtube.com/watch?v=cXxsE1_QrfE)
+
+3. [https://css-tricks.com/animating-with-clip-path/](https://css-tricks.com/animating-with-clip-path/)
+
+4. [https://www.w3schools.com/cssref/trycss3_transform-origin_inuse.htm](https://www.w3schools.com/cssref/trycss3_transform-origin_inuse.htm)
 
 
 
