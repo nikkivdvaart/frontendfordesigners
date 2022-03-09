@@ -22,6 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 4. [https://www.w3schools.com/cssref/trycss3_transform-origin_inuse.htm](https://www.w3schools.com/cssref/trycss3_transform-origin_inuse.htm)
 
+5. https://blog.bitsrc.io/css-clamp-the-responsive-combination-weve-all-been-waiting-for-f1ce1981ea6e
 
 
 ## Opdracht 1 plan
