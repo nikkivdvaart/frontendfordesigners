@@ -24,6 +24,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 5. https://blog.bitsrc.io/css-clamp-the-responsive-combination-weve-all-been-waiting-for-f1ce1981ea6e
 
+6. https://stackoverflow.com/questions/34913675/how-to-iterate-keys-values-in-javascript
+
+7. https://www.geeksforgeeks.org/ways-iterating-array-javascript/
+
+8. https://www.javascripttutorial.net/dom/manipulating/remove-all-child-nodes/
+
+9. https://blog.logrocket.com/localstorage-javascript-complete-guide/#:~:text=localStorage%20is%20a%20property%20that,the%20browser%20window%20is%20closed.
+
+10. https://www.w3schools.com/jsref/jsref_gettime.asp
+
+11. https://stackoverflow.com/questions/18967532/window-location-reload-not-working-for-firefox-and-chrome
+
+
 
 ## Opdracht 1 plan
 
