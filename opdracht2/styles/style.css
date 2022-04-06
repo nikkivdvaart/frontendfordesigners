@@ -40,7 +40,7 @@ summary {
 @media (prefers-color-scheme: dark) {
 	:root {
 	--color-main: rgb(15, 15, 15);
-	--color-background: rgb(29, 26, 26);
+	--color-background: rgb(53, 49, 49);
 	--text-color: rgb(194, 193, 193);
 	}
 }
