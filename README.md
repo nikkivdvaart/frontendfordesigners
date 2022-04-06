@@ -116,7 +116,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <img src="readme-images/problem2.png" width="375px" alt="problem">
   <img src="readme-images/problem2-code.png" width="375px" alt="problem">
-  <img src="readme-images/solution2.png" width="375px" alt="solution">
+  <img src="readme-images/solution2-code.png" width="375px" alt="solution">
 
 
 
@@ -144,7 +144,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken bij afronden opdracht (voor week 8)</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/uitkomst.png" width="375px" alt="uitkomst opdracht 2">
+  <img src="readme-images/uitkomst2.png" width="375px" alt="uitkomst opdracht 2">
 
 
   ### Dit ging goed/Heb ik geleerd: 
