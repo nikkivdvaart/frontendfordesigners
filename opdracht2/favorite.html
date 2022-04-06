@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="nl">
+	
+<head>
+	<meta charset="UTF-8">
+	<meta name="author" content="jouw naam">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Opdracht 2: Interactie galore - Frontend voor Designers</title>
+	
+	<link href="styles/style.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+
+<body>
+
+	<header>
+		<button>
+			<a href="index.html">
+                <img src="images/home.png" alt="Home Page">
+            </a>
+		</button>
+		
+	</header>
+
+<!-- needs a class for styling purposes -->
+	<main class="favorite_main">
+        <h1>
+            Favorites
+        </h1>
+
+        <section>
+            <div class="dropdown">
+                <button onclick="shoe_filter_dropdown()" class="drop_down_button" type="button" id="dropdownMenuButton">
+                Shoe Type
+                </button>
+                <div id="shoe_filter" class="dropdown_content">
+                    <a href="#" onclick="filter('Shoe', './images/shoe1.png')"><img src="images/shoe1.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Shoe', './images/shoe2.png')"><img src="images/shoe2.png" width="20" height="15"></a>
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <button onclick="shoe_color_filter_dropdown()" class="drop_down_button" type="button" id="dropdownMenuButton">
+                Shoe Color
+                </button>
+                <div id="color_filter" class="dropdown_content">
+                    <a href="#" onclick="filter('Color', 'blue')"><img src="./images/grid_options/colors/blue.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Color', 'brown')"><img src="./images/grid_options/colors/brown.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Color', 'green')"><img src="./images/grid_options/colors/green.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Color', 'pink')"><img src="./images/grid_options/colors/pink.png" width="20" height="15"></a>
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <button onclick="design_filter_dropdown()" class="drop_down_button" type="button" id="dropdownMenuButton">
+                Shoe Design
+                </button>
+                <div id="design_filter" class="dropdown_content">
+                    <a href="#" onclick="filter('Design', './images/display/shoe1/shoe1-design.png')"><img src="./images/grid_options/design/shoe1-design.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Design', './images/display/shoe2/shoe2-design.png')"><img src="./images/grid_options/design/shoe2-design.png" width="20" height="15"></a>
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <button onclick="laces_color_filter_dropdown()" class="drop_down_button" type="button" id="dropdownMenuButton">
+                Laces Color
+                </button>
+                <div id="laces_filter" class="dropdown_content">
+                    <a href="#" onclick="filter('Laces', 'blue')"><img src="./images/grid_options/colors/blue.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Laces', 'brown')"><img src="./images/grid_options/colors/brown.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Laces', 'green')"><img src="./images/grid_options/colors/green.png" width="20" height="15"></a>
+                    <a href="#" onclick="filter('Laces', 'pink')"><img src="./images/grid_options/colors/pink.png" width="20" height="15"></a>
+                </div>
+            </div>
+        </section>
+
+        <p>
+            No favorites yet! To start, style a shoe and then add it here.
+        </p>
+
+        <ul>
+        </ul>
+
+	</main>
+
+	<footer>
+		<img src="images/trashcan.png" alt="">
+	</footer>
+
+	<script src="scripts/favorite.js"></script>
+</body>
+	
+</html>
